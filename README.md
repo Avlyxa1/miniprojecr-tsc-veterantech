@@ -1,3 +1,6 @@
+## Dibuat Oleh:
+- Bagas Bani Aryasatya (2410501055)
+
 # Sistem Manajemen Kontak
 
 Aplikasi CLI sederhana untuk mengelola data kontak dengan fitur CRUD (Create, Read, Update, Delete) yang berjalan melalui terminal. Data disimpan dalam array of objects dan dapat disimpan ke file JSON.
@@ -42,3 +45,8 @@ Contoh data:
 - **Delete** (`deleteContact`): Menghapus kontak dari array berdasarkan ID. Data terbaru disimpan ke `contacts.json`.
 
 Fitur tambahan: filter kontak berdasarkan kategori dan pencarian kontak berdasarkan nama.
+
+# Mentor
+- Nadia Jasmine Aulia
+
+Trial Study Club Backend Basic
