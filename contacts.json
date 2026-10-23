@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CTC-001",
+    "name": "Budi Santoso",
+    "phone": "081234567890",
+    "email": "budi.santoso@email.com",
+    "address": "Jl. Merdeka No. 10, Jakarta",
+    "category": "Teman"
+  },
+  {
+    "id": "CTC-002",
+    "name": "Siti Rahayu",
+    "phone": "081298765432",
+    "email": "siti.rahuayu@email.com",
+    "address": "Jl. Sudirman No. 25, Bandung",
+    "category": "Keluarga"
+  },
+  {
+    "id": "CTC-003",
+    "name": "Ahmad Fauzi",
+    "phone": "081345678901",
+    "email": "ahmad.fauzi@email.com",
+    "address": "Jl. Gajah Mada No. 5, Surabaya",
+    "category": "Kerja"
+  },
+  {
+    "name": "Dewi Lestari",
+    "phone": "081255566677",
+    "email": "dewi.lestari@email.com",
+    "address": "Jl. Pahlawan No. 8, Yogyakarta",
+    "category": "Teman",
+    "id": "CTC-DE271"
+  },
+  {
+    "name": "Rina Wulandari",
+    "phone": "081211122233",
+    "email": "rina.wulandari@email.com",
+    "address": "Jl. Diponegoro No. 15, Medan",
+    "category": "Keluarga",
+    "id": "CTC-RI879"
+  }
+]
